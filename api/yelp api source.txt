@@ -1,0 +1,4 @@
+https://api.yelp.com/v3/businesses/search
+
+Yelp API Documentation: 
+https://www.yelp.com/developers/documentation/v3/business_search
